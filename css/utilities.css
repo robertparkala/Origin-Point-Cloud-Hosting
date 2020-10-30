@@ -53,6 +53,15 @@
   color: #fff;
 }
 
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
+
 .bg-light,
 .btn-light {
   background-color: var(--light-color);
@@ -95,7 +104,7 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 20px;
+  gap: 20px;
   justify-content: center;
   align-items: center;
   height: 100%;
@@ -106,6 +115,7 @@
 }
 
 /* Margin */
+
 .my-1 {
   margin: 1rem 0;
 }
