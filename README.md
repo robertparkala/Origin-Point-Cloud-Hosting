@@ -147,7 +147,7 @@ Then we added the Features CSS for the picture and made it smaller and pushed it
 
 **Link to work:** Check my GitHub @robertparkala, Twitter @thelunarcoder and Instagram @thelunarcoder ! Everything's active :)
 
-#Day 5: October 31, 2020 Happy Halloween, boo!
+#Day 5: November 1, 2020 Happy Halloween, boo!
 
 **Today's Progress**: Finished the Features page with subhead and subhead grid.
 
@@ -170,7 +170,7 @@ Now, we want the firs grid element to take up (span) one row and span three colu
 
 **Link to work:** Check my GitHub @robertparkala, Twitter @thelunarcoder and Instagram @thelunarcoder ! Everything's active :)
 
-#Day 6: October 31, 2020 Happy Halloween, boo!
+#Day 6: November 2, 2020 Happy Halloween, boo!
 
 **Today's Progress**: Finished the Blue Origin Cloud Hosting Website, which is now responsive across platforms.
 
