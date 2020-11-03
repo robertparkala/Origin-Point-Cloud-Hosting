@@ -191,7 +191,7 @@ We create another DIV with the class card an since it’s housed in a div contai
 LINKS AND LISTS 
 
 We added a heading in the card and a paragraph. Under the paragraph we created a link with an <a> tag. And set it up as a button Install CLI. Now, under the button we added the Requirements heading h3 and formulated those requirements into a unordered list. 
-Under the list we added another H3 and a Paragraph with a <pre><code> tag that allows us to add in the terminal code lines. Make sure to read more about this!
+Under the list we added another H3 and a Paragraph with a pre code tag that allows us to add in the terminal code lines. Make sure to read more about this!
 
 We’ll add a margin to the docs main heading and we will also modify the docs-main .grid to take up 1fr for the first grid item and 2fr for the second grid item. 
 
@@ -201,7 +201,7 @@ Now, we’re styling the Alert class and it’s similar to the Bootstrap alerts 
 
 We’re setting the alert class color to light color with the custom properties (variables)
 
-STYLING THE CODE IN <PRE> TAGS
+STYLING THE CODE IN PRE  TAGS
 
 We’re making the pre tags look like they would be off of a real documentation page.
 
