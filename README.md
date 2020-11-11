@@ -1,4 +1,4 @@
-# Blue-Origin-Cloud-Hosting
+# Origin-Point-Cloud-Hosting
 
 Responsive Web Design Projects - Building a Cloud Hosting website. Using HTML and CSS to complete this project.
 
