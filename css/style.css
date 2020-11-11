@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 :root {
-  --primary-color: #047aed;
-  --secondary-color: #1c3fa8;
-  --dark-color: #002240;
+  --primary-color: #81b214;
+  --secondary-color: #206a5d;
+  --dark-color: #81b214;
   --light-color: #f4f4f4;
-  --success-color: #5cb85c;
+  --success-color: #206a5d;
   --error-color: #d9534f;
 }
 
@@ -235,7 +235,6 @@ code, pre {
 }
 
 /* Docs */
-
 .docs-main h3 {
   margin: 20px 0;
 }
@@ -262,7 +261,6 @@ code, pre {
 }
 
 /* Animations */
-
 @keyframes slideInFromLeft {
   0% {
     transform: translateX(-100%);
